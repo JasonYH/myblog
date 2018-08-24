@@ -83,7 +83,7 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: https://github.com/JasonYH/myblog.git
+  repo: https://github.com/JasonYH/myblog.git
   branch: run-pages
 
 #search
