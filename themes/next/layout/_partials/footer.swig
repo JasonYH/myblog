@@ -45,5 +45,3 @@
   #}{{ theme.footer.custom_text }}{#
 #}</div>
 {% endif %}
-
-<p>Hosted by <a rel="external nofollow" href="https://pages.coding.me" style="font-weight: bold">Coding Pages</a></p>
