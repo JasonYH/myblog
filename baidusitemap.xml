@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+    
+  <url>
+    <loc>https://www.yuhuizhen.com/2018/08/25/hexo-learn.html</loc>
+    <lastmod>2018-08-27T07:33:50.617Z</lastmod>
+    <data>
+        <display>
+        <title>hexo高级部署教程,利用github+netlify部署</title>
+        <pubTime>2018-08-25T06:06:31.000Z</pubTime>
+        
+        <tag>hexo教程</tag>
+         
+        <tag>hexo部署</tag>
+         
+        <tag>github分支</tag>
+         
+        <tag>netlify部署</tag>
+         
+         
+           
+             
+              <breadCrumb title="日常" url="https://www.yuhuizhen.com/categories/%E6%97%A5%E5%B8%B8/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+    
+    
+    
+  <url>
+    <loc>https://www.yuhuizhen.com/2018/07/12/hello-world.html</loc>
+    <lastmod>2018-08-27T04:18:43.996Z</lastmod>
+    <data>
+        <display>
+        <title>Hello World</title>
+        <pubTime>2018-07-12T02:40:23.000Z</pubTime>
+        
+        <tag>hello world</tag>
+         
+        <tag>程序员</tag>
+         
+         
+           
+             
+              <breadCrumb title="日常" url="https://www.yuhuizhen.com/categories/%E6%97%A5%E5%B8%B8/"/>
+          
+        </display>
+    </data>
+    </url>
+
+</urlset>
